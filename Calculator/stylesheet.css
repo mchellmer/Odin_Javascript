@@ -1,0 +1,58 @@
+body {
+  width:1000px;
+  display:inline-block;
+}
+
+#numberpad {
+  display:inline-block;
+  width:70%;
+  height:700px;
+}
+
+#commands {
+  display:inline-block;
+  width: 20%;
+}
+
+#clear {
+  width: 90%;
+  border: 1px solid;
+  margin: 5px;
+  font-size: 50px;
+  height:150px;
+  text-align:center;
+  line-height:150px;
+}
+
+.number {
+  display: inline-block;
+  width: 30%;
+  border: 1px solid;
+  margin: 5px;
+  font-size: 50px;
+  height:150px;
+  text-align:center;
+  line-height:150px;
+}
+
+.button {
+  display: inline-block;
+  width: 30%;
+  border: 1px solid;
+  margin: 5px;
+  font-size: 50px;
+  height:150px;
+  text-align:center;
+  line-height:150px;
+}
+
+.command {
+  display: inline-block;
+  width: 95%;
+  border: 1px solid;
+  margin: 5px;
+  font-size: 50px;
+  height:150px;
+  text-align:center;
+  line-height:150px;
+}
