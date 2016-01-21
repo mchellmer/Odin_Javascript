@@ -58,6 +58,8 @@ var divide = function(x,y) {
   }
 };
 
+//************************* Jquery ****************************
+
 $(document).ready(function() {
 	var numbers = [];
 	var number;
